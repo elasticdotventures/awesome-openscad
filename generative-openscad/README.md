@@ -27,13 +27,13 @@ OpenSCAD libraries behave just like useful high-utility code libraries - but ins
 A straightforward but powerful example is the [screw()](https://github.com/revarbat/BOSL2/wiki/screws.scad) function from the [BOSL2](https://github.com/revarbat/BOSL2/wiki) openscad library which has idiomatic enumerated parameters that are intuitively called "name" which consists of names such as { "M3", "M4", "M5", "M6", "#8-32" ... }  
 
 
-The OpenSCAD object internally represents the correct length and calculates the thread pitch, drive_size, oversize, shank, tolerances, etc.  The "name" parameter can be used with the "head" to let the screw switch from DIN 965 (phillips) or DIN 912 (allen key), it's perfect & toil free. 
+The OpenSCAD object internally represents the correct length and calculates the thread pitch, drive_size, oversize, shank, tolerances, etc.  The "name" parameter can be used with the "head" to let the screw switch from DIN 965 (phillips) or DIN 912 (allen key), eliminates the tedium & toil of adding a screw(). 
 
-When I'm designing I'm racing the clock until I can start fabricating -- I never want to waste time yak-shaving finding or designing my own bolt when (as an engineer) I should be designing & testing the machine.  I don't need to specify *optional* parameter with openscad.  
+Anytime I'm designing I'm racing the clock until I can start fabricating a prototype. I want to avoid time-wasting yak-shaving searching for or designing my own bolt.  
 
-The mechanical thread pitch tables in bolt are also built-in to the library.  The designer never needs to look them up! Also mechanical engineering parts & systems with OpenSCAD will instantly let teams use GIT version control (and build pipelines) awesome. 
+*optional* parameters with openscad aren't mandatory, so I can design a mathematically perfect object with less time & work!  The mechanical thread pitch tables in bolt are also built-in to the library, if I change the size from an M4 to an M5 it's literally a 1 character change! (very clear, very observable in version control).  Suddenly using GIT in mechanical engineering for version control and build-actions (for validation & export/render into other systems) makes sense with OpenSCAD!  
 
-## OpenSCAD compared to 3D formats such as STL/OBJ or Autodesk SketchUp
+## Why OpenSCAD is 'better' than 3D formats such as STL/OBJ or Autodesk SketchUp
 
 With OpenSCAD the high level idiomatic representation is intuitive, especially in an editor like VS-Code which has OpenSCAD LSP w/intellisense built-in.  Editing objects is simply naming the "name" attribute to something else.
 
