@@ -8,7 +8,7 @@ Attempting to bring more awesomeness & harmony to the OpenSCAD community.
 
 # Generative OpenSCAD
 Please checkout the Generative OpenSCAD readme:
-[generative-openscad/README.md]()
+[elasticdotventures/awesome-openscad/blob/generative-openscad/generative-openscad/README.md]()
 
 # awesome-openscad [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A collection of awesome OpenSCAD resources
