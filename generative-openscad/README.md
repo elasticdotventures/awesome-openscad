@@ -3,6 +3,8 @@
 
 I'm going to post this project idea on a few sites like kaggle, huggingface, eAI & other AI related discords, etc. to see if others are keen to experiment collaboratively.  
 
+    Please remember to star/watch the REPO if you want updates!
+
 ## OpenSCAD for noobs
 [OpenSCAD](https://openscad.org/) is parametric design syntax, it is geometry as code.
 
