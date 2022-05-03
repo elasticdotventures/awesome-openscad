@@ -10,11 +10,12 @@ I'm going to post this project idea on a few sites like kaggle, huggingface, eAI
 
 Generative OpenSCAD will provide an infinite library of 3d compositional objects & compositional vector art that will power the web3 metaverse. 
 
-OpenSCAD has multiple language support for Python, TypeScript, C++ or RUST, even Java, here are some examples of engines supporting OpenSCAD:
+OpenSCAD has multiple language support for Python, TypeScript, C++ or RUST, even Java, here are some examples of engines supporting OpenSCAD:\
 * [https://openjscad.xyz/]()
 * [https://implicitcad.org/]()
 * [https://openscad.org/downloads.html]()
 * [https://cadhub.xyz]()
+* [inside Blender](https://github.com/elasticdotventures/Blender-openSCAD)
 
 ## Why OpenSCAD is better for 3d generative codex / large language models
 For those planning to build an AI to build a better AI, the key to rapid evolution (or convolution) will be the systems ability to discriminate the useful from non-useful changes. 
