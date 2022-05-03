@@ -44,6 +44,12 @@ A collection of awesome OpenSCAD resources
 * [Blender](https://github.com/elasticdotventures/blender-openSCAD)
 * [Netbeans, VIM, Emacs, Atom]()
     * 👎 unmaintained, possibly working: https://github.com/openscad/openscad/pull/3635  👀 [Tomatower/openscad](https://github.com/Tomatower/openscad) (29 commits ahead, 1038 commits behind master at time of writing)
+* [RapCAD]()
+* [ImplicitCAD]()
+* [Libre 3D]()
+* [BlocksCAD]
+* Models @ MakeWithTech
+* openscad.cloud by Autodrop3d
 
 # 🍰 Parametric Geometry Syntax Sugar
 ### Libraries
