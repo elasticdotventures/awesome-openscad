@@ -52,6 +52,8 @@ Generative OpenSCAD is not like other AI challenges.  A single parameter may con
 
 I can envision (someday, in the distant future) to have a simulation pipeline for the objects that provides a cognitive agent that can understand project requirements with the means to both generate & subsequently evaluate the performance of the object and then theorize a better design which it can submit to the simulation on the subsequent iteration. 
 
+# Next Steps
+
 ## Pre-toil tasks
     * build a map/index of openscad code libraries on the Internet (this repo)
     * build tool to download & validate objects listed in the awesome-openscad repo.
@@ -61,17 +63,18 @@ I can envision (someday, in the distant future) to have a simulation pipeline fo
 
 ## Task A: "LM" Language Model /text description/ to OpenSCAD syntax
 My proposed approach:
-    * use instructional GPT-Instruct similar compositional approach like DALLE-2 or CLIP, but with open image models
-    * create an LM codex that can output valid openscad code (using the pre-toil above)
-    * render openscad code into STL's (using the pre-toil above)
-    * use has valid parameters/code syntax of codex in reinforcement
-    
-    * STRETCH GOAL: adjustable componentization & naming conventions. 
+
+* use instructional GPT-Instruct similar compositional approach like DALLE-2 or CLIP, but with open image models
+* create an LM codex that can output valid openscad code (using the pre-toil above)
+* render openscad code into STL's (using the pre-toil above)
+* use has valid parameters/code syntax of codex in reinforcement
+* STRETCH GOAL: adjustable componentization & naming conventions. 
     it is most useful to output an intuitive compositional syntax for writing sensible code (i.e. naming conventions for objects with polymorphic parameters that make sense, so a propellor is named a 'propellor')  🤔: how to measure?
     
 
 ## Task B: Convert 3d STL or OBJ to equivalent OpenSCAD
-    * it is probably to convert SVG to OpenSCAD (pretty easy)
+* convert SVG to OpenSCAD (pretty easy)
 
 ## TASK C: show us something cool related to OpenSCAD & AI
+* your idea here.
 
