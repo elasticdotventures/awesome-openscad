@@ -13,7 +13,9 @@ If you have an openscad project please open a PR.
 # awesome-openscad [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A collection of awesome OpenSCAD resources
 
-<iframe src="https://ghbtns.com/github-btn.html?user=elasticdotventures/awesome-openscad&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="400" height="30" title="GitHub"></iframe>
+[![GitHub Followers](https://img.shields.io/github/followers/elasticdotventures?style=social)](https://github.com/elasticdotventures)
+[![GitHub Repo stars](https://img.shields.io/github/stars/elasticdotventures/awesome-openscad?style=social)](https://github.com/elasticdotventures/awesome-openscad)
+
 
 # Awesome communities
 * [https://github.com/openscad/openscad]()
