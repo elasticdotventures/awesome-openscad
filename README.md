@@ -294,6 +294,9 @@ https://github.com/daprice/Flexy-Beast
     * Ventilator
     https://hackaday.io/project/170507-cosv-cam-open-source-ventilator
 
+    * Fabric printing and other interesting objects and designs
+    https://github.com/jeffbarr/OpenSCADObjects
+
 # Joints
     https://github.com/HopefulLlama/JointSCAD
 
