@@ -4,6 +4,7 @@
 Attempting to bring more awesomeness & harmony to the OpenSCAD community. 
 
 
+
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 
 I am marking this project as WIP planning for a better awesome-list.   
@@ -27,11 +28,11 @@ A collection of awesome OpenSCAD resources
 * https://mastodon.social/web/tags/openscad
 * CadHub Discord: (see page for link)
 
-
 ## 😘 Acknowledge Friends of SCAD
+* 🥰🦀 [CSGRS](https://github.com/timschmidt/csgrs/) Constructive solid geometry with polygons using BSP trees in Rust
 * [Fornjot](https://www.fornjot.app/) built in RUST, similar to OpenSCAD with boundary representation.
 * 🐍.python [CadQuery/cadquery]() - a popular python centric dialect that is turing complete and therefore perhaps better suited for systems coding & simulation. 
-* C++ [OpenCascade]() - a wholly separate but similar distant cousin of OpenSCAD. 
+* ©️++ [OpenCascade]() - a C++ wholly separate but similar distant cousin of OpenSCAD. 
 * [ImplicitCAD]() may not use OpenSCAD (can't tell)
 
 
