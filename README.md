@@ -1,62 +1,56 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Goal
-Attempting to bring more awesomeness & harmony to the OpenSCAD community. 
-
-
+Bringing more awesomeness and harmony to the OpenSCAD community.
 
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 
-I am marking this project as WIP planning for a better awesome-list.   
+This project is marked as WIP, planning for a better awesome-list.
 
-If you have an openscad project please open a PR. 
-
-# awesome-openscad [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A collection of awesome OpenSCAD resources
+If you have an OpenSCAD or related project, please open a PR.
 
 [![GitHub Followers](https://img.shields.io/github/followers/elasticdotventures?style=social)](https://github.com/elasticdotventures)
 [![GitHub Repo stars](https://img.shields.io/github/stars/elasticdotventures/awesome-openscad?style=social)](https://github.com/elasticdotventures/awesome-openscad)
 
-
-# Awesome communities
-* [https://github.com/openscad/openscad]()
-* [![Visit our IRC channel](https://kiwiirc.com/buttons/irc.libera.chat/openscad.png)](https://kiwiirc.com/client/irc.libera.chat/#openscad)
-
-* [IRC/Matrix.org bridge](https://matrix.to/#/#openscad:libera.chat)
-
-* [Reddit r/OpenSCAD](https://reddit.com/r/openscad)
-* https://mastodon.social/web/tags/openscad
-* CadHub Discord: (see page for link)
-
-## 😘 Acknowledge Friends of SCAD
-* 🥰🦀 [CSGRS](https://github.com/timschmidt/csgrs/) Constructive solid geometry with polygons using BSP trees in Rust
-* [Fornjot](https://www.fornjot.app/) built in RUST, similar to OpenSCAD with boundary representation.
-* 🐍.python [CadQuery/cadquery]() - a popular python centric dialect that is turing complete and therefore perhaps better suited for systems coding & simulation. 
-* ©️++ [OpenCascade]() - a C++ wholly separate but similar distant cousin of OpenSCAD. 
-* [ImplicitCAD]() may not use OpenSCAD (can't tell)
+# Awesome Communities
+- [OpenSCAD GitHub](https://github.com/openscad/openscad)
+- [![Visit our IRC channel](https://kiwiirc.com/buttons/irc.libera.chat/openscad.png)](https://kiwiirc.com/client/irc.libera.chat/#openscad)
+- [IRC/Matrix.org bridge](https://matrix.to/#/#openscad:libera.chat)
+- [Reddit r/OpenSCAD](https://reddit.com/r/openscad)
+- [Mastodon](https://mastodon.social/web/tags/openscad)
+- CadHub Discord: (see page for link)
 
 
-# 👋 Platforms supporting OpenSCAD syntax
-// TODO: this should be a table suggesting environments & differences
-* [OpenSCAD](https://github.com/openscad/openscad) the source of truth for everybody else.
-* [FreeCAD](https://github.com/FreeCAD/FreeCAD) a venerable free open-source tool that features an OpenSCAD workbench
-* [JSCAD](https://github.com/jscad/OpenJSCAD.org)
-    * previously known as OpenJSCAD, online self-hosteable web-based ui & CLI. 📢 
-    * 👀 Live Demo: [https://openjscad.xyz]()
-* [Visual Studio Code](https://github.com/Antyos/vscode-openscad)
-    * Language Service Provider "LSP" module (should be compatible with any editor, but only tested on vs-code)
-* [cadhub](https://github.com/Irev-Dev/cadhub)
-    * 👀 Live Demo: [https://cadhub.xyz/]()
-* [Blender](https://github.com/elasticdotventures/blender-openSCAD)
-* [Netbeans, VIM, Emacs, Atom]()
-    * 👎 unmaintained, possibly working: https://github.com/openscad/openscad/pull/3635  (29 commits ahead, 1038 commits behind master at time of writing)
-    * 👀 [Tomatower/openscad](https://github.com/Tomatower/openscad) (29 commits ahead, 1038 commits behind master at time of writing)
-* [RapCAD]()
-* [Libre 3D]()
-* [BlocksCAD]
-* Models @ MakeWithTech
-* openscad.cloud by Autodrop3d
+## 💖 Making Something?
+-  [PartCad](https://partcad.org/) [github](https://github.com/partcad) Supports OpenSCAD and linking to +CadQuery +build123d. Supports Assemblies of OpenSCAD and others via YAML.  Has a VsCode Plugin & integrates with OCP Viewer. Multi-model AI LLM genration. Integrates with KiCad and others. Exports to Everything (SVG, PNG, STEP, BREP, STL, 3MF, ThreeJS, & OBJ).  Active Developer. If you're wondering how to take OpenSCAD to the next level please show PartCad your love!! Start designing modular hardware! PartCAD is the standard for documenting manufacturable physical products. 🤯
 
+
+## Acknowledge Friends of SCAD
+
+- 🦀 [CSGRS](https://github.com/timschmidt/csgrs/) - Constructive solid geometry with polygons using BSP trees in Rust.
+- [Fornjot](https://www.fornjot.app/) - Built in Rust, similar to OpenSCAD with boundary representation.
+- 🐍 [CadQuery](https://github.com/cadquery/cadquery) - A popular Python-centric dialect better suited for systems coding and simulation.
+- ©️++ [OpenCascade](https://github.com/OpenCascade) - A C++ distant cousin of OpenSCAD.
+- [ImplicitCAD](https://github.com/colah/ImplicitCAD) - May not use OpenSCAD (uncertain).
+
+# Platforms Supporting OpenSCAD Syntax
+// TODO: Convert this into a table suggesting environments and differences.
+- [OpenSCAD](https://github.com/openscad/openscad) - The source of truth for everybody else.
+- [FreeCAD](https://github.com/FreeCAD/FreeCAD) - A venerable free open-source tool featuring an OpenSCAD workbench.
+- [JSCAD](https://github.com/jscad/OpenJSCAD.org) - Previously known as OpenJSCAD, online self-hostable web-based UI and CLI.
+  - 👀 [Live Demo](https://openjscad.xyz)
+- [Visual Studio Code](https://github.com/Antyos/vscode-openscad) - Language Service Provider "LSP" module.
+- [CadHub](https://github.com/Irev-Dev/cadhub)
+  - 👀 [Live Demo](https://cadhub.xyz)
+- [Blender](https://github.com/elasticdotventures/blender-openSCAD)
+- [Netbeans, VIM, Emacs, Atom]()
+  - 👎 unmaintained, possibly working: https://github.com/openscad/openscad/pull/3635  (29 commits ahead, 1038 commits behind master at time of writing)
+  - 👀 [Tomatower/openscad](https://github.com/Tomatower/openscad) (29 commits ahead, 1038 commits behind master at time of writing)
+- [RapCAD]()
+- [Libre 3D]()
+- [BlocksCAD]()
+- Models @ MakeWithTech
+- openscad.cloud by Autodrop3d
 
 # 🍰 Parametric Geometry Syntax Sugar
 ### Libraries
@@ -74,11 +68,8 @@ A collection of awesome OpenSCAD resources
 * https://github.com/thehans/funcutils
     functional openscad
 
-
-
-## Ubiqutious OpenSCAD 😎
+## Ubiquitous OpenSCAD 😎
 - popular & useful Libraries/tool-kits
-
 * https://github.com/htho/scadlib
 * dotSCAD v3.2
     https://github.com/JustinSDK/dotSCAD
@@ -95,39 +86,28 @@ A collection of awesome OpenSCAD resources
 * OpenSCADutil
     * SKADIS!!
     * https://github.com/franpoli/OpenSCADutil
-
 * NopSCADlib
     * https://github.com/nophead/NopSCADlib
 * BH-Lib
     https://github.com/brandonhill/BH-Lib
-
 * Directions, orientation, position
 https://github.com/tanius/openscad-models
-
 * omdl 'mechanical design library'
     https://royasutton.github.io/openscad-amu/
     https://royasutton.github.io/omdl/
-
 * https://github.com/dinther/openSCAD_functions
-
 * openscad-fiddlybits
     https://github.com/mathcodeprint/openscad-fiddlybits
-
-
 * openJoystick 🕹️
     https://www.youtube.com/watch?v=GIY6-3KwIS8&list=PLC66292176B625E2A
 
-
-
-
 # Language Bindings
-- compositional openSCAD transpilation & visualization  
+- compositional openSCAD transpilation & visualization
 ### 🦀.RUST
 https://github.com/TheZoq2/Rust-Scad
 
 ### WASM
 https://github.com/openscad/openscad-wasm
-
 
 ### 🐍.Python
 https://github.com/taxpon/openpyscad
@@ -142,9 +122,6 @@ https://github.com/taxpon/openpyscad
         * (https://github.com/Maxattax97/openscad-format)
     * (https://www.npmjs.com/package/nodescad)
 
-
-
-
 # Tutorials / Creating (the process)
     https://mirmik.github.io/zencad/en/index.html
     * https://www.youtube.com/watch?v=tOx5UI8GGns
@@ -157,7 +134,6 @@ https://github.com/kikaitachi/naminukas
     * Lofting
         https://github.com/jakubczaplicki/this-to-that
 
-
 # Importing
     * https://github.com/Zigazou/svg2dxf
     * https://github.com/Spiritdude/SVG2SCAD
@@ -167,16 +143,15 @@ https://github.com/kikaitachi/naminukas
     # Gerber
     https://github.com/drujensen/GerbToSCAD
 
-
 # Exporting
     * PNG
     https://github.com/openscad/image-generator/issues
 
-# 3d printing
+# 3D Printing
     * https://github.com/Spiritdude/Print3r
     * Anti-warping walls
     https://github.com/JohnStrunk/WhateverSCAD
-    
+
 
 # Assemblies
     * Attach Library
@@ -197,12 +172,10 @@ https://github.com/kikaitachi/naminukas
 
     * https://github.com/usagi/usagi.scad
 
-
     https://github.com/eyal0/openscad-pcb-boxes
 
     * PCB/EDA object syntax
     https://github.com/htho/scadlib-electronic-components/tree/master/electromechanical/other/printed_circuit_boards
-
 
 # Robotics
     https://github.com/prl-mushr/mushr_cad
@@ -226,7 +199,6 @@ https://github.com/kikaitachi/naminukas
     * Spherical Involute Bevel Gears
     https://github.com/JediJeremy/BevelGears
 
-
 # Bearings & Belts
     https://github.com/phidiasllc/scad_libraries
 
@@ -239,8 +211,7 @@ https://github.com/kikaitachi/naminukas
     * Moineau Pump/Paste Extruder
     https://github.com/doctek/Moineau-Paste-Extruder
 
-
-# Funnels & Clyndrical couplings
+# Funnels & Cylindrical Couplings
     https://github.com/alexbirklykke/openscad
 
 # Text
@@ -248,15 +219,11 @@ https://github.com/kikaitachi/naminukas
     * Braille
     https://github.com/whosawhatsis/braille-openscad
 
-
-
 # Heatsinks
     * https://github.com/fullyautomated/means-of-circuit-design/tree/main/3D
 
 # Optical Encoder
     * https://github.com/Irev-Dev/3D-Printed-Optical-Encoder
-
-
 
 # ServoArms
     https://github.com/hugokernel/OpenSCAD_ServoArms
@@ -298,18 +265,17 @@ https://github.com/daprice/Flexy-Beast
 # Joints
     https://github.com/HopefulLlama/JointSCAD
 
-
 # Nuts & Bolts
 * https://github.com/JohK/nutsnbolts/
-```
+
+```openscad
 include <cyl_head_bolt.scad>;
 
 screw("M20x100", thread="modeled"); // screw M20x100 with thread
 nut("M20", thread="modeled");       // corresponding nut with thread
-		    
-screw("M3x12");                     // screw M3x12
 
-```    
+screw("M3x12");                     // screw M3x12
+```
 
 # Wheels & Pully
 * Pully & GT5, idler, etc.
@@ -320,35 +286,27 @@ screw("M3x12");                     // screw M3x12
 * Filament Tires
     https://github.com/Arcus-3d/FilaMecanum
 
-
 # Pegboards
 * skadis
     * https://github.com/franpoli/OpenSCADutil/tree/master/ikea_skadis_pegboard_accessories
-
 * https://github.com/MGX3D/pegstr
     * https://github.com/MGX3D/pegstr/issues/7
-
 https://github.com/ringerc/openscad-pegboard-peggrid
-
 
 # 2D
 * svgShape
     https://github.com/dinther/pathbuilder
-
 * https://github.com/OskarLinde/scad-utils
 2d morphology
 * SCADTrace
-    emboss black & white bitmap to openscad object 
+    emboss black & white bitmap to openscad object
     https://github.com/guyc/scadtrace
 * Laser Cutting
 https://github.com/bmsleight/lasercut
 https://github.com/mbugert/laserscad
 
-
-
 # Antenna
 https://awesomeopensource.com/project/SmittyHalibut/coax-trap-form
-
 
 # Case & Boxes
 https://github.com/larsch/lasercut-box-openscad
@@ -364,7 +322,6 @@ https://github.com/gskielian/PCB-Fixture-Generator
 
 https://github.com/schub/basteln
 
-
 https://github.com/apollo-ng/seedstack
 https://awesomeopensource.com/project/sebastianrakel/SolderStuffStation
 https://github.com/DaveDavenport/SensorBox
@@ -377,10 +334,8 @@ https://github.com/heyspacebuck/parametric-chastity-cage
     * + Servos
     https://github.com/process1183/openscad-library
 
-
 https://github.com/TomHodson/Raspberry-Pi-OpenSCAD-Model
     * openscad -o rpi.png --camera=-30,0,12,41,0,201,620  --imgsize=640,480 --projection=p rpi.scad
-
 
 # Robots
 * Verilog
@@ -395,7 +350,7 @@ https://github.com/kwatters/DIYServo
     https://github.com/cromo/horizontal-rack
     * jpeg,png, etc. to STL
     https://github.com/Harakan/litho_research
-    * 
+    *
     https://awesomeopensource.com/project/willdurand/kicad-libs
 
 # Calendars
@@ -403,43 +358,22 @@ https://github.com/kwatters/DIYServo
 
 
 
+
+
 ------ LINE OF OBSOLENCE ------
 
 # Obsolete (Apparently Unmaintained)
-NOTE: anything that doesn't work in the stable
-or nightly belongs here
-
-single arm scara robot
-https://github.com/robdobsn/ScaraOn
-
-https://github.com/drigberg/nerdata
-
-https://github.com/mtu-most/most-scad-libraries
-
-https://github.com/sjkelly/Magpie
-
-https://github.com/chadkirby/BezierScad
-
-https://github.com/graphscad
-
-https://cadhub.xyz/
-* round anything library
-https://learn.cadhub.xyz/docs/round-anything/api-reference/
-
-https://github.com/cznewt/openscad-model-library
-
-https://github.com/snemetz/OpenSCAD-Modules
-
-https://github.com/Verkhovskaya/PyCAD
+NOTE: Anything that doesn't work in the stable or nightly belongs here.
+- [Single Arm Scara Robot](https://github.com/robdobsn/ScaraOn)
+- [Nerdata](https://github.com/drigberg/nerdata)
+- [MOST SCAD Libraries](https://github.com/mtu-most/most-scad-libraries)
+- [Magpie](https://github.com/sjkelly/Magpie)
+- [BezierScad](https://github.com/chadkirby/BezierScad)
+- [GraphSCAD](https://github.com/graphscad)
+- [Round Anything Library](https://learn.cadhub.xyz/docs/round-anything/api-reference)
+- [OpenSCAD Model Library](https://github.com/cznewt/openscad-model-library)
+- [OpenSCAD Modules](https://github.com/snemetz/OpenSCAD-Modules)
+- [PyCAD](https://github.com/Verkhovskaya/PyCAD)
 
 
-https://www.thingiverse.com/thing:689564
-https://github.com/hyperair/fan-blades/issues
-
-https://github.com/revk/PCBCase
-https://cults3d.com/en/users/JustinSDK/creations?page=2
-https://en.wikibooks.org/wiki/OpenSCAD_Tutorial
-https://github.com/rcolyer/smooth-prim
-https://github.com/rcolyer/smooth-prim
-https://github.com/dzhu/openscad-language-server
-https://github.com/Leathong/openscad-LSP
+[![Star History Chart](https://api.star-history.com/svg?repos=elasticdotventures/awesome-openscad&type=Date)](https://star-history.com/#awesome-openscad&Date)
