@@ -106,6 +106,17 @@ Compositional transpilation and visualization libraries for OpenSCAD.
   - **Last commit:** ![Last commit](https://img.shields.io/github/last-commit/openscad/openscad)
   - **Latest release:** ![Release](https://img.shields.io/github/v/release/openscad/openscad)
 
+- **OpenSCAD Studio**
+
+  - _A modern OpenSCAD editor for makers, with live preview, diagnostics, and AI-assisted iteration._
+  - **Environment:** Web app and macOS desktop app
+  - **Syntax & Workflow:** Native OpenSCAD (`.scad`) editing with browser WebAssembly rendering and desktop native OpenSCAD rendering
+  - **Key Features:** Monaco-based editor, live 3D and SVG preview, customizer controls, multi-file desktop projects, measurement tools, share links, and AI copilot support for hosted or local models
+  - **Status:** Active
+  - **Link:** [openscad-studio.pages.dev](https://openscad-studio.pages.dev) / [GitHub](https://github.com/zacharyfmarion/openscad-studio)
+  - **Last commit:** ![Last commit](https://img.shields.io/github/last-commit/zacharyfmarion/openscad-studio)
+  - **Latest release:** ![Release](https://img.shields.io/github/v/release/zacharyfmarion/openscad-studio)
+
 - **FreeCAD (OpenSCAD Workbench)**
 
   - _A venerable free open-source tool featuring an OpenSCAD workbench._
